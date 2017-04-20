@@ -280,7 +280,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 * [darwin](https://github.com/GuiaBolso/darwin) - Database schema evolution library for Go
 * [goose](https://github.com/steinbacher/goose) - Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts.
-* [gormigrate](https://github.com/go-gormigrate/gormigrate) - Database schema migration helper for Gorm ORM.
+* [gormigrate](https://github.com/go-gormigrate/gormigrate) - Database schema migration helper for Gorm nn.
 * [migrate](https://github.com/mattes/migrate) - Database migration handling in Golang support MySQL, PostgreSQL, Cassandra, and SQLite.
 * [pravasan](https://github.com/pravasan/pravasan) - Simple Migration tool - currently for MySQL but planning to support soon for Postgres, SQLite, MongoDB, etc.,
 * [soda](https://github.com/markbates/pop/tree/master/soda) - Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite.
@@ -783,6 +783,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 *Libraries that implement Object-Relational Mapping or datamapping techniques.*
 
 * [beego orm](https://github.com/astaxie/beego/tree/master/orm) - A powerful orm framework for go. Support: pq/mysql/sqlite3.
+* [bongo](https://github.com/go-bongo/bongo) - Go ODM for MongoDB.
 * [go-pg](https://github.com/go-pg/pg) - PostgreSQL ORM with focus on PostgreSQL specific features and performance.
 * [go-store](https://github.com/gosuri/go-store) - A simple and fast Redis backed key-value store library for Go.
 * [gomodel](https://github.com/cosiner/gomodel) - A lightweight, fast, orm-like library helps interactive with database.
